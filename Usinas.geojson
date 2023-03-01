@@ -1,0 +1,10 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-42.1245,-19.779415,0]},"properties":{"name":"Falk","description":"Usina", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-42.5182035273367,-19.4402818599618,0]},"properties":{"name":"Naque","description":"Areal", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-42.1361510623032,-19.706842950551,0]},"properties":{"name":"Britador São Geraldo","description":"Pedreira", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-47.0476236001679,-20.778256076296,0]},"properties":{"name":"Cetenge","description":"Usina", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-47.8973506495269,-19.5311733879982,0]},"properties":{"name":"Copari","description":"Usina", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.1082047430095,-19.9477298467898,0]},"properties":{"name":"NTA","description":"Distribuidora", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.1800836402563,-19.9523183706259,0]},"properties":{"name":"Stratura","description":"Distribuidora", "color": "red", "size":"1"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.2827387940185,-20.043895714999,0]},"properties":{"name":"Betunel","description":"Distribuidora", "color": "red", "size":"1"}}
+]}
