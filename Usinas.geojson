@@ -9,7 +9,6 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.2827387940185,-20.043895714999,0]},"properties":{"name":"Betunel","description":"Distribuidora"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.234576,-20.008402,0]},"properties":{"name":"JMC","description":"Usina"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.963722,-20.039817,0]},"properties":{"name":"Irmãos Machado","description":"Pedreira"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.014052,-19.816982,0]},"properties":{"name":"Santiago","description":"Pedreira"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.09875,-19.873528,0]},"properties":{"name":"Martins Lanna","description":"Pedreira"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.967919,-19.676417,0]},"properties":{"name":"Cotepa","description":"Usina"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.056632,-19.875497,0]},"properties":{"name":"Minasfalto","description":"Usina"}},
