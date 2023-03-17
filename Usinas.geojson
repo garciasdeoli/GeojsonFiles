@@ -13,6 +13,6 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.056632,-19.875497,0]},"properties":{"name":"Minasfalto","description":"Usina"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.014052,-19.816982,0]},"properties":{"name":"Santiago","description":"Pedreira"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.9632256767019,-19.7091320715871,0]},"properties":{"name":"Ical","description":"Pedreira"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-45.447204,-21.542629,0]},"properties":{"name":"Pavican","description":"Usina"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-43.968480690712475,-19.679259321960966,0]},"properties":{"name":"Cotepa","description":"Usina"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-43.968480690712475,-19.679259321960966,0]},"properties":{"name":"Cotepa","description":"Usina"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-45.447204,-21.542629,0]},"properties":{"name":"Pavican","description":"Usina"}}
 ]}
