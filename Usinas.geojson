@@ -31,5 +31,8 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.9840553565249,-20.0028713533723,0]},"properties":{"name":"Terramaya","description":"Usina"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-44.0977798112492,-20.0034304493755,0]},"properties":{"name":"Unicapa","description":"Usina"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-43.2149869180438,-19.6672944728595,0]},"properties":{"name":"Vale Verde","description":"Usina"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.5607367718421,-20.0648231381387,0]},"properties":{"name":"Único Asfalto","description":"Usina"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.5607367718421,-20.0648231381387,0]},"properties":{"name":"Único Asfalto","description":"Usina"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-44.130303457609799,-19.9587967793946,0]},"properties":{"name":"Greca","description":"Usina"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-46.963128526915497,-22.454320385687499,0]},"properties":{"name":"Marangoni","description":"Defensa"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-46.4716027135781,-23.4740956207864,0]},"properties":{"name":"Marvitec","description":"Defensa"}}
 ]}
